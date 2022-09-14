@@ -1,14 +1,11 @@
 ---
-title: "West Florida Shelf Oceanographic Bulletin"
-author: "Brendan Turley"
-date: 2022-09-14
+title: "WEST FLORIDA SHELF OCEANOGRAPHIC BULLETIN"
 output: html_document
 ---
 
 
-# **MOST RECENT DATA**
+## Most Recent Data
 
-## Bottom Data
 ![Latest bottom data](figures/latest_bottom.png)
 
 -----
