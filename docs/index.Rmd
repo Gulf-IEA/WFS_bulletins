@@ -14,7 +14,8 @@ output: html_document
 -----
 
 
-# **PREVIOUS DATA**
+# **[Previous data](previous_data.html)**
 
-Comeback: Under construction!
 
+-----
+### [Report an issue](https://github.com/Gulf-IEA/WFS_bulletins/issues/new)
