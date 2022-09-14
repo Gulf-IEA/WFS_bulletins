@@ -13,11 +13,6 @@ output: html_document
 
 -----
 
-## Surface Data
-![Latest underway data](figures/latest_underway.png)
-
------
-
 
 # **PREVIOUS DATA**
 
