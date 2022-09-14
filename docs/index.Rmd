@@ -8,7 +8,7 @@ output: html_document
 
 # MOST RECENT CRUISE
 
-![Latest bottom data](https://github.com/Gulf-IEA/WFS_bulletins/blob/main/figures/latest_bottom.png)
+![Latest bottom data](figures/latest_bottom.png)
 
-![Latest underway data](https://github.com/Gulf-IEA/WFS_bulletins/blob/main/figures/latest_underway.png)
+![Latest underway data](figures/latest_underway.png)
 
