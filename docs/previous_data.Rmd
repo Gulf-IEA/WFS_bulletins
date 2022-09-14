@@ -5,12 +5,12 @@ output: html_document
 
  ## Results {.tabset}
  
- ### Plots {.tabset}
+ ### Plots
  
  Other data from previous sources
  
  Comeback: Under construction!
  
- ### Tables {.tabset}
+ ### Tables
  
  more text
