@@ -7,8 +7,8 @@ assignees: bdturley
 
 ---
 
-**Please provide as much detail as possible about the comment, concern, question, or observation**
-***(examples: data quality, map error, unusual offshore conditions, question about methods)***
+## **Please provide as much detail as possible about the comment, concern, question, or observation**
+*(examples: data quality, map error, unusual offshore conditions, question about methods)*
 
 
-**Is this about a particular time or location? Please add those details if known.**
+## **Is this about a particular time or location? Please add those details if known.**
