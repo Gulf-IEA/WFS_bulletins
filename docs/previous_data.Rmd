@@ -3,16 +3,16 @@ title: "Previous Data"
 output: html_document
 ---
 
- ## Results {.tabset}
+## Results {.tabset}
  
- ### Plots
+### Plots
  
- Other data from previous sources
+Other data from previous sources
  
- Comeback: Under construction!
+Comeback: Under construction!
  
- ### Tables
+### Tables
  
- more text
+more text
  
- -----
+-----
