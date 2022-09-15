@@ -1,28 +1,29 @@
 ---
 title: "About"
-author: "Brendan Turley"
-date: "2022-09-15"
 output: html_document
 ---
 
-### About this project
+## About this project
 
 This combined data from various sources listed below. The overall project is supported by NOAA's [Gulf of Mexico Integrated Ecosystem Assessment Program](https://www.integratedecosystemassessment.noaa.gov/regions/gulf-mexico).
 
 
-### Data sources
+## Data sources
 
 
-## FCWC
+### FCWC
 
 Florida Commercial Watermen's Conservation ([FCWC](https://floridawatermen.org))
 
 
-## NOAA OAR
+### NOAA OAR
 
 NOAA Atlantic Oceanographic and Meterological Laboratory's [South Florida Ecosystem Restoration Research Cruises](https://www.aoml.noaa.gov/data-products/#so-flo-cruise-data)
 
 
-## NOAA NMFS
+### NOAA NMFS
 
 NOAA Southeast Fisheries Science Center's [Population and Ecosystem Monitoring](https://www.fisheries.noaa.gov/about/population-and-ecosystem-monitoring)
+
+
+-----
