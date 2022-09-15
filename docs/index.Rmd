@@ -15,4 +15,4 @@ output: html_document
 
 
 -----
-### [Report an issue](https://github.com/Gulf-IEA/WFS_bulletins/issues/new)
+### [Report an issue](https://github.com/Gulf-IEA/WFS_bulletins/issues/new?assignees=bdturley&labels=User+supplied+issue&template=comment---concern---question---observation.md&title=User+supplied+issue)
