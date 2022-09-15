@@ -4,7 +4,7 @@ output: html_document
 ---
 
 
-## Most Recent Data
+## <span style="color: red;">Most Recent Data</span>
 
 ![Latest bottom data](figures/latest_bottom.png)
 
