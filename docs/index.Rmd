@@ -6,19 +6,20 @@ output: html_document
 
 ## <span style="color: red;">Most Recent Data</span>
 
-![Latest bottom data](figures/latest_bottom.png)
+![](figures/latest_bottom.png)
 
 -----
 
 
-# **[Previous data](previous_data.html)**
+### Click **[here](previous_data.html)** for previous bulletins.
 
+### Explore FCWC data **[here](https://oceandata.shinyapps.io/fcwc-data-explorer/)**.
 
-## **[FCWC data explorer](https://oceandata.shinyapps.io/fcwc-data-explorer/)**
-
-## **[About](about.html)**
+### Find out more about this project **[here](about.html)**.
 
 
 -----
-### [Report an issue](https://github.com/Gulf-IEA/WFS_bulletins/issues/new?assignees=bdturley&labels=User+supplied+issue&template=comment---concern---question---observation.md&title=User+supplied+issue)
+
+### Click to [report an issue](https://github.com/Gulf-IEA/WFS_bulletins/issues/new?assignees=bdturley&labels=User+supplied+issue&template=comment---concern---question---observation.md&title=User+supplied+issue)
+
 -----
