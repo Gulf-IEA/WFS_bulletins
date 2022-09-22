@@ -9,13 +9,25 @@ Other data from previous cruises
  
 **Comeback: Under construction!**
 
-### <span style="color: red;">FCWC</span>
+### FCWC
  
 Links
  
 ### AOML
- 
-Links
+
+**Comeback: Under construction!**
+
+Data collected by the R/V Walton Smith unless noted otherwise.
+
+August 2020 [profiles](figures/AOML/20200908_WS_profile.pdf)
+
+January 2022 [bottom](figures/AOML/WS22022_bottom.png) and [surface](figures/AOML/WS22022_underway.png)
+
+March 2022 [bottom](figures/AOML/WS22072_bottom2.png) and [surface](figures/AOML/WS22072_underway.png)
+
+May 2022 [bottom](figures/AOML/WS22141_bottom2.png) and [surface](figures/AOML/WS22141_underway.png)
+
+
 
 ### NMFS
  
