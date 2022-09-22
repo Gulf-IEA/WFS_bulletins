@@ -20,6 +20,6 @@ output: html_document
 
 -----
 
-### Click to [report an issue](https://github.com/Gulf-IEA/WFS_bulletins/issues/new?assignees=bdturley&labels=User+supplied+issue&template=comment---concern---question---observation.md&title=User+supplied+issue)
+### Click to [report an issue](https://docs.google.com/forms/d/e/1FAIpQLSf2F628Zew_N-vfUUy7mg5wJhs626IRFVibEHY1nBV1fwTvig/viewform?usp=sf_link)
 
 -----
