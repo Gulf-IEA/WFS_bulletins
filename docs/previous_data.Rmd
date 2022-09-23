@@ -17,17 +17,15 @@ Links
 
 **Comeback: Under construction!**
 
-Data collected by the R/V Walton Smith unless noted otherwise.
-
-August 2020 [profiles](figures/AOML/20200908_WS_profile.pdf)
-
-January 2022 [bottom](figures/AOML/WS22022_bottom.png) and [surface](figures/AOML/WS22022_underway.png)
-
-March 2022 [bottom](figures/AOML/WS22072_bottom2.png) and [surface](figures/AOML/WS22072_underway.png)
+Data collected by the [R/V Walton Smith](https://www.earth.miami.edu/about-us/administration/marine-operations/f-g-walton-smith-vessel/index.html) unless noted otherwise.
 
 May 2022 [bottom](figures/AOML/WS22141_bottom2.png) and [surface](figures/AOML/WS22141_underway.png)
 
+March 2022 [bottom](figures/AOML/WS22072_bottom2.png) and [surface](figures/AOML/WS22072_underway.png)
 
+January 2022 [bottom](figures/AOML/WS22022_bottom.png) and [surface](figures/AOML/WS22022_underway.png)
+
+August 2020 [profiles](figures/AOML/20200908_WS_profile.pdf)
 
 
 ### NMFS
@@ -36,9 +34,11 @@ May 2022 [bottom](figures/AOML/WS22141_bottom2.png) and [surface](figures/AOML/W
 
 Data collected by [NOAA research vessels](https://www.omao.noaa.gov/find/fleet/ships).
 
-August 2021 [bottom](figures/NOAA/20210908_noaa_plot.png)
+September 2022 [bottom](figures/NOAA/20220913_noaa_plot.png)
+
+November 2021 [bottom](figures/NOAA/20211124_noaa_plot.png)
 
 September 2021 [bottom](figures/NOAA/20210920_noaa_plot.png)
 
-November 2021 [bottom](figures/NOAA/20211124_noaa_plot.png)
- 
+August 2021 [bottom](figures/NOAA/20210908_noaa_plot.png)
+
