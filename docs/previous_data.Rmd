@@ -34,6 +34,8 @@ August 2020 [profiles](figures/AOML/20200908_WS_profile.pdf)
 
 Data collected by [NOAA research vessels](https://www.omao.noaa.gov/find/fleet/ships).
 
+September 2022 [bottom](figures/NOAA/20220924_noaa_plot.png)
+
 September 2022 [bottom](figures/NOAA/20220913_noaa_plot.png)
 
 November 2021 [bottom](figures/NOAA/20211124_noaa_plot.png)
