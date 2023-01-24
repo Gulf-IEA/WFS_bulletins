@@ -8,16 +8,17 @@ output: html_document
 Other data from previous cruises
  
 **Comeback: Under construction!**
-
-### FCWC
  
-Links
  
 ### AOML
 
 **Comeback: Under construction!**
 
 Data collected by the [R/V Walton Smith](https://www.earth.miami.edu/about-us/administration/marine-operations/f-g-walton-smith-vessel/index.html) unless noted otherwise.
+
+December 2022 [bottom](figures/AOML/WS22337_bottom.png)
+
+October 2022 [bottom](figures/AOML/WS22281_bottom.png)
 
 May 2022 [bottom](figures/AOML/WS22141_bottom2.png) and [surface](figures/AOML/WS22141_underway.png)
 
@@ -28,15 +29,30 @@ January 2022 [bottom](figures/AOML/WS22022_bottom.png) and [surface](figures/AOM
 August 2020 [profiles](figures/AOML/20200908_WS_profile.pdf)
 
 
+### FCWC
+
+**Comeback: Under construction!**
+ 
+January 6, 2022 [profile](figures/FCWC/20220106_FCWC_annotated.pdf)
+
+October 16, 2021 [profile](figures/FCWC/20211016_FCWC_annotated.pdf)
+
+July 19, 2021 [profile](figures/FCWC/20210719_FCWC_sampling.pdf)
+
+August 16, 2020 [profile](figures/FCWC/20200816_FCWC_update.pdf)
+
+May 6, 2020 [profile](figures/FCWC/20200506_FCWC_profile.pdf)
+
+
 ### NMFS
 
 **Comeback: Under construction!**
 
 Data collected by [NOAA research vessels](https://www.omao.noaa.gov/find/fleet/ships).
 
-September 2022 [bottom](figures/NOAA/20220924_noaa_plot.png)
+Late September 2022 [bottom](figures/NOAA/20220924_noaa_plot.png)
 
-September 2022 [bottom](figures/NOAA/20220913_noaa_plot.png)
+Early September 2022 [bottom](figures/NOAA/20220913_noaa_plot.png)
 
 November 2021 [bottom](figures/NOAA/20211124_noaa_plot.png)
 
