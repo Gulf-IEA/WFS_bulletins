@@ -1,0 +1,31 @@
+---
+title: 'Previous Bulletin Archive'
+output: html_document
+---
+ 
+ 
+| | Jan | Feb | Mar | Apr | May | Jun | Jul | Aug | Sep | Oct | Nov | Dec |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2023 |[FCWC profile](figures/FCWC/20230108_FCWC.png)|---|---|---|---|---|---|---|---|---|---|---|
+| 2022 |[FCWC profile](figures/FCWC/20220106_FCWC_annotated.pdf) [AOML bottom](figures/AOML/WS22022_bottom.png) [AOML surface](figures/AOML/WS22022_underway.png)|---|---|---|[AOML bottom](figures/AOML/WS22141_bottom2.png) [AOML surface](figures/AOML/WS22141_underway.png) |---|---|---|[NMFS bottom](figures/NOAA/20220913_noaa_plot.png) [NMFS bottom](figures/NOAA/20220924_noaa_plot.png)|[AOML bottom](figures/AOML/WS22281_bottom.png)|---|[AOML bottom](figures/AOML/WS22337_bottom.png)|
+| 2021 |---|---|---|---|---|---|[FCWC profile](figures/FCWC/20210719_FCWC_sampling.pdf)|---|[NMFS bottom](figures/NOAA/20210908_noaa_plot.png) [NMFS bottom](figures/NOAA/20210920_noaa_plot.png)|[FCWC profile](figures/FCWC/20211016_FCWC_annotated.pdf)|[NMFS bottom](figures/NOAA/20211124_noaa_plot.png)|---|
+| 2020 |---|---|---|---|[FCWC profile](figures/FCWC/20200506_FCWC_profile.pdf)|---|---|[FCWC profile](figures/FCWC/20200816_FCWC_update.pdf)|---|---|---|---|
+
+-----
+
+### AOML
+
+Data collected by the [R/V Walton Smith](https://www.earth.miami.edu/about-us/administration/marine-operations/f-g-walton-smith-vessel/index.html) unless noted otherwise.
+
+-----
+
+#### FCWC
+
+Florida Commercial Watermen's Conservation ([FCWC](https://floridawatermen.org))
+
+-----
+
+#### NMFS
+
+Data collected by [NOAA research vessels](https://www.omao.noaa.gov/find/fleet/ships).
+

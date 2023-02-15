@@ -11,7 +11,7 @@ output: html_document
 -----
 
 
-### Click **[here](previous_data.html)** for previous bulletins.
+### Click **[here](previous_v2.html)** for previous bulletins.
 
 ### Explore FCWC data **[here](https://oceandata.shinyapps.io/fcwc-data-explorer/)**.
 
