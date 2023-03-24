@@ -297,23 +297,17 @@ overflow-y: auto;
 border: 1px solid #ddd;
 border-radius: 4px;
 }
-.tabset-dropdown > .nav-tabs > li.active:before {
-content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+content: "\e259";
 font-family: 'Glyphicons Halflings';
 display: inline-block;
 padding: 10px;
 border-right: 1px solid #ddd;
 }
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-content: "";
-border: none;
-}
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-content: "";
+content: "\e258";
 font-family: 'Glyphicons Halflings';
-display: inline-block;
-padding: 10px;
-border-right: 1px solid #ddd;
+border: none;
 }
 .tabset-dropdown > .nav-tabs > li.active {
 display: block;
@@ -397,7 +391,7 @@ display: none;
 <td align="center">2023</td>
 <td align="center"><a href="figures/FCWC/20230108_FCWC.png"><span style="color: ForestGreen;">FCWC profile</span></a></td>
 <td align="center">—</td>
-<td align="center">—</td>
+<td align="center"><a href="figures/AOML/WS23061_bottom.png"><span style="color: SteelBlue;">AOML bottom</span></a></td>
 <td align="center">—</td>
 <td align="center">—</td>
 <td align="center">—</td>
