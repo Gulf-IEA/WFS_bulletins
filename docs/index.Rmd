@@ -6,7 +6,7 @@ output: html_document
 
 ## <span style="color: red;">Most Recent Data</span>
 
-![](figures/latest_bottom.png)
+![](figures/latest.png)
 
 -----
 
