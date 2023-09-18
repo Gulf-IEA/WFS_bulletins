@@ -3,6 +3,7 @@ title: "WEST FLORIDA SHELF OCEANOGRAPHIC BULLETIN"
 output: html_document
 ---
 
+### **[Latest update on evolving hypoxia summer 2023](wfs_data_explore.html)**
 
 ## <span style="color: red;">Most Recent Data</span>
 
